@@ -1,1 +1,7 @@
 
+import random
+import time
+
+rnan_num = random()
+
+print(rnan_num)
